@@ -1,2 +1,2 @@
 # PythonStudy
-python学习
+python日常学习
